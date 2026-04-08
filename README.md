@@ -31,7 +31,7 @@ A simple full-stack web application that allows users to register for events. Bu
 3. Submits the form  
 4. Flask processes the request  
 5. Data is stored in MySQL  
-6. Success message is displayed  
+6. Success Message is displayed  
 
 ---
 
